@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.bg-login {
+	background-image: url(../img/bg.jpg);
+	background-position: center center;
+	background-size: cover;
+}
+
+.bg-index {
+	background-image: url(../img/bg-index.jfif);
+	background-position: center center;
+	background-size: auto;
+}
